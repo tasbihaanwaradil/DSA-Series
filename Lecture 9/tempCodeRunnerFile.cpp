@@ -1,0 +1,1 @@
+cout << vec1[0,4] << endl;
